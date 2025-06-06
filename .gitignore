@@ -8,6 +8,7 @@ extension_chrome/dist
 extension_chrome/node_modules
 .vscode
 remote-profile
+my_env/
 
 # IDEs and editors
 /.idea
